@@ -6,3 +6,7 @@ Requisites :
 1. apache2
 2. telepot
 3. aria2
+
+Usage : 
+
+sudo python3 bot.py
